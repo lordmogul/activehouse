@@ -7,9 +7,12 @@
 
 # How to use
 1. Clone the repo
-2. Change directory to the cloned repo
    ```dotnetcli
    git clone https://github.com/lordmogul/activehouse.git
+   ```
+2. Change directory to the cloned repo
+   ```dotnetcli
+   cd activehouse
    ```
 3. install required packages via composer
    ```dotnetcli
