@@ -1,9 +1,9 @@
 # Activehouse
 
 # Packages
-1. PHP
-2. Laravel
-3. Passport
+1. PHP 8.0.2
+2. Laravel 9.19
+3. Passport 11.1
 
 # How to use
 1. Clone the repo
